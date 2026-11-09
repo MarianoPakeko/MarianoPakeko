@@ -15,7 +15,7 @@
 
 An analytically precise Data Scientist with a deep background in advanced logic, structural analysis, and system architecture. Experienced in building production-ready predictive models, automating NLP pipelines, and engineering Computer Vision solutions within the Python ecosystem. Proven ability to translate highly complex, multi-layered data problems into scalable product strategies and business guardrails under pressure.
 
-[![My Skills](https://skillicons.dev/icons?i=py,discord,css,gcp,azure,anaconda,linkedin,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,discord,css,azure,anaconda,linkedin,aws)](https://skillicons.dev)
 ---
 
 ## 🛠️ Core Technology Stack & Capabilities🛠️ 
