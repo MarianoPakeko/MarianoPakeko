@@ -57,23 +57,20 @@ Engineered an enterprise-grade Natural Language Processing pipeline built to pro
 
 ## 🌐 Languages 🌐
 
-*   **Spanish:** Native
-*   **English:** Advanced (Fluent/Professional)
-*   **Italian:** Advanced (Fluent/Professional)
-*   **German:** Intermediate
+*   🇲🇽 / 🇪🇸 **Spanish:** Native
+*   🇬🇧 **English:** Advanced (Fluent/Professional)
+*   🇮🇹 **Italian:** Advanced (Fluent/Professional)
+*   🇩🇪 **German:** Intermediate
+*   🇫🇷 **French:** Basic/Functional
+*   🇻🇦 **Latin:** Classical/Academic
+*   🇬🇷 **Ancient Greek:** Classical/Academic
 
 ---
 
 ## 📈 Connect With Me
 
-* :mailbox: ¿Quieres contactar conmigo?
-*
-* [![Linkedin Badge](https://img.shields.io/badge/-Mariano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-gustavo-pacheco-marín-50710239a/)
 
-  **Email:** [mariano.pakeko@gmail.com](mailto:mariano.pakeko@gmail.com)
-
-* :iphone: +39 3929446989
-
+*   **Phone**: +39 3929446989
 *   **LinkedIn:** [https://www.linkedin.com/in/mariano-gustavo-pacheco-marín-50710239a/]
 *   **Email:** [mariano.pakeko@gmail.com](mailto:mariano.pakeko@gmail.com)
 *   **GitHub:** https://github.com/MarianoPakeko
