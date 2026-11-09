@@ -1,8 +1,5 @@
-![Banner](./bannergit.png)
+![Banner](./bannergit.jpg)
 
-<p align="right">
-
-</p>
 
 # Mariano G. Pacheco Marín
 
