@@ -14,12 +14,14 @@
   
 </div>
 
-# Mariano G. Pacheco Marín
+# 📐 Mariano G. Pacheco Marín 📐
 
 
-### Junior Data Scientist | Python & Machine Learning Engineer
+### Junior Data Scientist 📊 | Python 🐍 & Machine Learning Engineer 🧠
 
 An analytically precise Data Scientist with a deep background in advanced logic, structural analysis, and system architecture. Experienced in building production-ready predictive models, automating NLP pipelines, and engineering Computer Vision solutions within the Python ecosystem. Proven ability to translate highly complex, multi-layered data problems into scalable product strategies and business guardrails under pressure.
+
+![Python Eating Contributions](https://githubusercontent.com)
 
 ---
 
