@@ -1,5 +1,5 @@
-![Banner](./bannergit.jpg)
-<img src="./bannergit.jpg" width="100%" alt="Banner">
+
+<img src="./bannergit.jpg" width="85%" alt="Banner">
 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-gustavo-pacheco-marín-50710239a/)
