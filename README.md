@@ -68,11 +68,11 @@ Engineered an enterprise-grade Natural Language Processing pipeline built to pro
 
 * :mailbox: ¿Quieres contactar conmigo?
 *
-* [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-gustavo-pacheco-marín-50710239a/)
+* [![Linkedin Badge](https://img.shields.io/badge/-Mariano-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-gustavo-pacheco-marín-50710239a/)
 
-* :e-mail: jorge.caceresgarcia@gmail.com
+  **Email:** [mariano.pakeko@gmail.com](mailto:mariano.pakeko@gmail.com)
 
-* :iphone: +569 4208 4090
+* :iphone: +39 3929446989
 
 *   **LinkedIn:** [https://www.linkedin.com/in/mariano-gustavo-pacheco-marín-50710239a/]
 *   **Email:** [mariano.pakeko@gmail.com](mailto:mariano.pakeko@gmail.com)
