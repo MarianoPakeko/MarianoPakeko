@@ -1,6 +1,6 @@
 
-<div style="width: 100%; height: 100px; overflow: hidden;">
-  <img src="./bannergit.jpg" style="width: 100%; height: 45%; object-fit: cover; object-position: center;" alt="Banner">
+<div style="width: 100%; height: 50px; overflow: hidden;">
+  <img src="./bannergit.jpg" style="width: 100%; height: 50%; object-fit: cover; object-position: center;" alt="Banner">
 </div>
 
 
