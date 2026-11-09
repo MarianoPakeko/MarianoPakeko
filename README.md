@@ -58,7 +58,7 @@ Engineered an enterprise-grade Natural Language Processing pipeline built to pro
 
 ## 📈 Connect With Me
 
-*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+*   **LinkedIn:** [https://www.linkedin.com/in/mariano-gustavo-pacheco-marín-50710239a/]
 *   **Email:** [mariano.pakeko@gmail.com](mailto:mariano.pakeko@gmail.com)
 *   **GitHub:** https://github.com/MarianoPakeko
 
