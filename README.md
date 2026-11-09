@@ -1,15 +1,8 @@
-
-<div style="width: 100%; height: 50px; overflow: hidden;">
-  <img src="./banner2.jpg.png" style="width: 100%; height: 50%; object-fit: cover; object-position: center;" alt="Banner">
-</div>
-
-
-
-  
+<div style="width: 100%; height: 180px; overflow: hidden;">
+  <img src="./banner2.jpg.png" style="width: 100%; height: 100%; object-fit: cover; object-position: center;" alt="Banner">
 </div>
 
 # 📐 Mariano G. Pacheco Marín 📐
-
 
 ### Junior Data Scientist 📊 | Python 🐍 & Machine Learning Engineer 🧠
 
