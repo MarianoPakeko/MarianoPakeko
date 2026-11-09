@@ -10,7 +10,7 @@ An analytically precise Data Scientist with a deep background in advanced logic,
 
 ---
 
-## 🛠️ Core Technology Stack & Capabilities
+## 🛠️ Core Technology Stack & Capabilities🛠️ 
 
 *   **Languages & Core Tools:** Python (Advanced), SQL, Bash, Git, Microsoft Office
 *   **Data Engineering & Cloud Infrastructure:** Feature Engineering, Regular Expressions, AWS, Google Cloud Storage (GCS)
@@ -19,7 +19,7 @@ An analytically precise Data Scientist with a deep background in advanced logic,
 
 ---
 
-## 🚀 Featured Data Science Projects
+## 🚀 Featured Data Science Projects 🚀 
 
 ### 1. Computer Vision: Age Estimation for Retail Compliance Support
 Developed a production-ready computer vision pipeline designed to automate customer age estimation, specifically optimized to support cashiers during age-restricted retail sales transactions.
@@ -36,7 +36,7 @@ Engineered an enterprise-grade Natural Language Processing pipeline built to pro
 
 ---
 
-## 🏛️ Education & Foundations in Advanced Logic
+## 🏛️ Education & Foundations in Advanced Logic 🏛️
 
 *   **TripleTen — Data Science Program** | Professional Certification (Sept 2025 - Oct 2026)
     *   Successfully executed over 10 practical enterprise-level data science and machine learning projects under simulated agile workflows, rigorous testing protocols, and collaborative senior code reviews.
@@ -47,7 +47,7 @@ Engineered an enterprise-grade Natural Language Processing pipeline built to pro
 
 ---
 
-## 🌐 Languages
+## 🌐 Languages 🌐
 
 *   **Spanish:** Native
 *   **English:** Advanced (Fluent/Professional)
@@ -60,4 +60,5 @@ Engineered an enterprise-grade Natural Language Processing pipeline built to pro
 
 *   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 *   **Email:** [mariano.pakeko@gmail.com](mailto:mariano.pakeko@gmail.com)
+*   **GitHub:** []
 
