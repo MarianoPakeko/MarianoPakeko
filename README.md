@@ -4,15 +4,9 @@
 </div>
 
 
-<div id="header" align="left">
-  <h3>⚡ Tech Stack & Tools</h3>
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="AWS" />
-  <img src="https://shields.io" alt="GCS" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-</div>
+### ⚡ Tech Stack & Tools
+
+![Python](https://shields.io) ![PostgreSQL](https://shields.io) ![AWS](https://shields.io) ![GCS](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
 
 
   
