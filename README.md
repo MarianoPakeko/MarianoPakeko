@@ -1,5 +1,7 @@
 
-<img src="./bannergit.jpg" width="85%" alt="Banner">
+<div style="width: 100%; height: 250px; overflow: hidden;">
+  <img src="./bannergit.jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: center;" alt="Banner">
+</div>
 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-gustavo-pacheco-marín-50710239a/)
