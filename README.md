@@ -4,10 +4,6 @@
 </div>
 
 
-### ⚡ Tech Stack & Tools
-
-![Python](https://shields.io) ![PostgreSQL](https://shields.io) ![AWS](https://shields.io) ![GCS](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
-
 
   
 </div>
