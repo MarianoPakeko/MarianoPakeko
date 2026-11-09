@@ -60,5 +60,5 @@ Engineered an enterprise-grade Natural Language Processing pipeline built to pro
 
 *   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
 *   **Email:** [mariano.pakeko@gmail.com](mailto:mariano.pakeko@gmail.com)
-*   **GitHub:** [(https://github.com/MarianoPakeko)]
+*   **GitHub:** https://github.com/MarianoPakeko
 
