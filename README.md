@@ -4,11 +4,15 @@
 </div>
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mariano-gustavo-pacheco-marín-50710239a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+<div id="header" align="left">
+  <h3>⚡ Tech Stack & Tools</h3>
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+  <img src="https://shields.io" alt="AWS" />
+  <img src="https://shields.io" alt="GCS" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+</div>
 
 
   
